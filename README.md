@@ -2,19 +2,10 @@
 
 <p align="center">
   <b>Estudiante de Sistemas de Información</b><br/>
-  <i>UI/UX Enthusiast · AMV Editor · Beginner Coder</i>
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/19b899fc-203d-46b0-bd55-8a1450389452" width="100%" style="border-radius: 20px;"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Minimal-0f0f0f?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/User%20Focused-0f0f0f?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Builder%20Mindset-0f0f0f?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
@@ -24,27 +15,6 @@
 <p align="center">
 Diseño experiencias digitales que se sienten <b>simples, intuitivas y significativas</b>.<br/>
 Combino <b>diseño, storytelling y desarrollo</b> para crear productos que realmente funcionan.
-</p>
-
----
-
-## ✧ Lo que hago
-
-<p align="center">
-
-🎨 Interfaces limpias y modernas  
-🎬 Visual storytelling & AMV  
-💻 Construyendo con código  
-
-</p>
-
----
-
-## ✧ Filosofía
-
-<p align="center">
-  <i>"La simplicidad es la máxima sofisticación."</i><br/><br/>
-  <sub>Clean · Functional · Meaningful</sub>
 </p>
 
 ---
@@ -67,17 +37,6 @@ Combino <b>diseño, storytelling y desarrollo</b> para crear productos que realm
 
 </p>
 
----
-
-## ✧ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=larend6&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larend6&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
